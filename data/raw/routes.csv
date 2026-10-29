@@ -1,0 +1,9 @@
+route_id,route_name,mode,distance_km
+R01,Central - Airport,Bus,28.5
+R02,North Loop,Bus,18.2
+R03,Harbour Line,Tram,12.4
+R04,University Express,Bus,15.0
+R05,Green Line,Metro,22.8
+R06,Blue Line,Metro,31.5
+R07,Old Town Shuttle,Tram,6.3
+R08,Tech Park Link,Bus,20.1
